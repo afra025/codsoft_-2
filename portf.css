@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+.bg{
+    background-color: #DFCCFB;
+    height: 100vh;
+}
+.head{
+    text-align: center;
+    padding: 200px;
+    font-weight: bold;
+font-size: 75px;
+font-family: 'Sacramento', cursive;
+margin: 0;
+padding-bottom: 0;
+color: #7e64d8;
+}
+.text{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    color: #7e64d8;
+}
+.img{
+    height: 350px;
+    width: 100%;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+hr{
+    width: 4%;
+    color: #7e64d8;
+    font-size: bold;
+    margin-top: 30px;
+}
+ul{
+    text-align: center;
+    margin-bottom: 10px;
+    padding-left: 0;
+}
+li{
+    margin-bottom: 20px;
+    font-size: large;
+}
+button{
+    color: #7e64d8;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    background-color: #DFCCFB;
+    border-radius: 20px;
+
+}
+button:hover{
+    color: white;
+}
+.btn{
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+footer{
+    background-color: #DFCCFB;
+    display: block;
+    height: 200px;
+    text-align: center;
+    
+}
+.footer-links{
+    text-align: center;
+    padding-top: 70px;
+}
+a{
+    margin: 40px;
+    color: #7e64d8;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.copy{
+    margin-top: 50px;
+}
+.pic{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
